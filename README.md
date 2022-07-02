@@ -1,7 +1,7 @@
 Hi 👋 My name is Noah Ahmed
 ===========================
 
-Ai Engineer
+AI Engineer
 -----------
 
 I've been avidly coding for two years now. I've always been interested in machine learning and Ai interfaces. My goal on GitHub is to develop my skills and contribute to as many projects as possible.
